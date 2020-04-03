@@ -1,0 +1,21 @@
+.validation_error{
+  color:red;
+}
+
+.main-footer {
+  position: relative;
+}
+
+/* callout box css */
+.callout-box {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 99.99%;
+}
+.callout-box .callout {
+   border-radius: 0px;
+}
+.content-wrapper{
+min-height:700px;
+}
